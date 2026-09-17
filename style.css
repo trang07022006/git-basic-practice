@@ -28,9 +28,3 @@ p {
     margin-top: 0;
 }
 
-/* Đoạn CSS cố tình sửa sai giao diện */
-body {
-    background: black !important;
-    display: none !important;
-}
-
