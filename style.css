@@ -14,3 +14,17 @@ p {
     line-height: 1.6;
 }
 
+.intro-card {
+    background: #ffffff;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin-top: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-left: 4px solid #3498db;
+}
+
+.intro-card h2 {
+    color: #2980b9;
+    margin-top: 0;
+}
+
