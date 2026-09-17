@@ -1,0 +1,4 @@
+Thông tin dự án và tác giả:
+- Họ và tên: Lê Thị Trang
+- Mục tiêu: Thực hành các thao tác cơ bản với Git và GitHub (Chương 2)
+- Dự án: git-basic-practice
