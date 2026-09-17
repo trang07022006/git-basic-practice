@@ -1,0 +1,4 @@
+Ghi chú cá nhân cho bài tập Git:
+- Bài 1: Tạo repo và commit đầu tiên - Đã hoàn thành.
+- Bài 2: Thực hành commit nhiều lần và xem log, diff.
+- Đang sửa style.css và notes.txt để commit cùng lúc.
